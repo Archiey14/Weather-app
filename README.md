@@ -16,16 +16,6 @@
 
 ---
 
-## 🖥️ Demo
-
-> Search for any city and the app fetches live data from OpenWeatherMap API.
-
-| Clear Sky ☀️ | Rainy 🌧️ | Cloudy ⛅ |
-|---|---|---|
-| ![clear](screenshots/clear.png) | ![rain](screenshots/rain.png) | ![clouds](screenshots/clouds.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Usage |
