@@ -2,7 +2,7 @@
 
 > Real-time weather at your fingertips — search any city and get live conditions instantly.
 
-![Weather App Interface](screenshots/preview.png)
+![Weather App Interface](screenshot/preview.png)
 
 ---
 
